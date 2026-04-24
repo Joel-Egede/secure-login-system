@@ -22,6 +22,7 @@ A Node.js + Express authentication system.
 npm install
 node server.js
 
+## author
 ****AUTHOR****
 JOEL EGEDE
 **************
